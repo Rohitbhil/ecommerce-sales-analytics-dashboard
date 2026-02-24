@@ -54,3 +54,11 @@ Data was extracted and validated using SQL, then modeled in Power BI using a sta
 - Identified and resolved data granularity mismatches to ensure accurate revenue calculations.
 
 ---
+
+## 📂 Dataset
+
+This project uses the Brazilian E-Commerce Public Dataset (Olist), a real-world anonymized transactional dataset.
+
+[Olist Brazilian E-Commerce Dataset (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+---
